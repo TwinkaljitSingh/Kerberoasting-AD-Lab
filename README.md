@@ -58,7 +58,7 @@ Kerberoasting-AD-Lab/
 - Strong password for service account
 - Removed Domain Admin rights (least privilege)
 - Enabled password rotation
-- Optional: Disable RC4 → Force AES
+- Optional: Disable RC4 -> Force AES
 - Monitoring Kerberos TGS events (Event ID 4769)
 
 
@@ -76,7 +76,7 @@ Kerberoasting-AD-Lab/
 This project is for **education & internal lab use only.**  
 Do NOT perform Kerberoasting on systems without permission.
 
----
+
 
 ### Status: Complete  
 Project successfully executed, mitigated & validated.
